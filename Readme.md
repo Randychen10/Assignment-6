@@ -1,1 +1,1 @@
-
+in this assignment, I am attempting to demonstrate the use of the DOM API and will be implementing it to a word frequency counter. This assignment was quite simple and easy to code. In this file you will find a index.html, styles.css, and script.js. Although there is a index.html file, most of the code will be through styles.css and script.js
